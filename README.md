@@ -1,5 +1,7 @@
 # Array Package
 
+![tests](https://github.com/dracory/arr/workflows/tests/badge.svg)
+
 The `arr` package provides a comprehensive set of utilities for working with arrays, slices, and maps in Go. It offers a collection of functions to simplify common array operations and manipulations.
 
 ## Features
