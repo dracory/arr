@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dracory/base/arr"
+	"github.com/dracory/arr"
 )
 
 func TestUnique(t *testing.T) {

@@ -3,7 +3,7 @@ package arr_test
 import (
 	"testing"
 
-	"github.com/dracory/base/arr"
+	"github.com/dracory/arr"
 )
 
 func TestContains(t *testing.T) {

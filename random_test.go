@@ -5,7 +5,7 @@ import (
 
 	"slices"
 
-	"github.com/dracory/base/arr"
+	"github.com/dracory/arr"
 )
 
 func TestRandom(t *testing.T) {

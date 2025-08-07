@@ -3,7 +3,6 @@ module github.com/dracory/arr
 go 1.24.5
 
 require (
-	github.com/dracory/base v0.25.0
 	github.com/samber/lo v1.51.0
 	golang.org/x/exp v0.0.0-20250718183923-645b1fa84792
 )

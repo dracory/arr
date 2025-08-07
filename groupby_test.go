@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/dracory/base/arr"
+	"github.com/dracory/arr"
 )
 
 func TestGroupBy(t *testing.T) {

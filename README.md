@@ -37,7 +37,7 @@ The `arr` package provides a comprehensive set of utilities for working with arr
 ## Installation
 
 ```bash
-go get github.com/dracory/base/arr
+go get github.com/dracory/arr
 ```
 
 ## Usage Examples
@@ -49,7 +49,7 @@ package main
 
 import (
     "fmt"
-    "github.com/dracory/base/arr"
+    "github.com/dracory/arr"
 )
 
 func main() {
@@ -71,7 +71,7 @@ package main
 
 import (
     "fmt"
-    "github.com/dracory/base/arr"
+    "github.com/dracory/arr"
 )
 
 func main() {
@@ -93,7 +93,7 @@ package main
 
 import (
     "fmt"
-    "github.com/dracory/base/arr"
+    "github.com/dracory/arr"
 )
 
 func main() {
@@ -120,7 +120,7 @@ package main
 
 import (
     "fmt"
-    "github.com/dracory/base/arr"
+    "github.com/dracory/arr"
 )
 
 func main() {
@@ -147,7 +147,7 @@ package main
 
 import (
     "fmt"
-    "github.com/dracory/base/arr"
+    "github.com/dracory/arr"
 )
 
 func main() {
